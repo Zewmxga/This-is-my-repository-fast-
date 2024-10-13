@@ -1,0 +1,55 @@
+<title>my bio Instagram </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <center>
+    <div class="dpdiv">
+        <div class="dp">
+            <img src="IMG_20240813_191518_906.jpg" alt="dp">
+            
+        </div>
+    </div>
+    <!-- name -->
+    <div>
+        <h2 >sahil</h2>
+    </div>
+    <!-- social media icons -->
+    <div class="socialico">
+        <div class="icoz">
+            
+        </div>
+        
+    </div>
+    
+     <!-- button url-->
+    <div class="buttonurl">
+        <div class="button">
+           <button class="buttoncss" onclick="window.location.href='https://ide.geeksforgeeks.org/';" class="GFG">Instagram</button>
+           <div class="buttonx">
+               <button class="buttoncss" onclick="window.location.href='https://ide.geeksforgeeks.org/';" class="GFG">GitHub</button>
+           </div>
+           <div class="buttony">
+               <button class="buttoncss" onclick="window.location.href='https://ide.geeksforgeeks.org/';" class="GFG">YouTube</button>
+               
+           </div>
+           
+            
+        </div>
+        
+    </div>
+    
+    
+    
+    <!-- button URL close -->
+    </center>
+ <button class="buttoncs
+ 
+ 
+ 
+           onclick="window.location.href='https://ide.geeksforgeeks.org/';" class="GFG"><i class="fa-brands fa-youtube"></i>YouTube</button>   
+            
+
+
+    
+</body>
+</html>
